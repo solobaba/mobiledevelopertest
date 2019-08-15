@@ -3,7 +3,7 @@ Football Fixtures app that consumes fixtures data from https://www.football-data
 
 ![](images/TodaysFixtures.png)
 ![](images/Competitions.png)
-![](images/Ligue1Taeam)
-![](images/Ligue1Fixtures)
-![](images/Ligue1Team)
-![](images/Ligue1Popup)
+![](images/Ligue1Taeam.png)
+![](images/Ligue1Fixtures.png)
+![](images/Ligue1Team.png)
+![](images/Ligue1Popup.png)
