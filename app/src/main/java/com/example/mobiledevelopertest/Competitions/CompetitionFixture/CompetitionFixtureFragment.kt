@@ -75,7 +75,7 @@ class CompetitionFixtureFragment : androidx.fragment.app.Fragment(), Competition
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         //competitionTeamRecylerView
-        rootView = inflater.inflate(R.layout.fragment_competition_table, container, false)
+        rootView = inflater.inflate(R.layout.fragment_fixtures_card, container, false)
         var mLayoutManager = androidx.recyclerview.widget.GridLayoutManager(activity, 1)
         rootView!!.competitionRecylerView.layoutManager = mLayoutManager
         competitionFixturePresenter.loadFixtureCompetitions()
